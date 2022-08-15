@@ -5,8 +5,6 @@ import './index.css';
 
 import HomePage from "./homepage/HomePage"
 
-
-
 ReactDOM.render(
 
   <HomePage />,

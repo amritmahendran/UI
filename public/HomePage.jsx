@@ -22,16 +22,8 @@ function HomePage() {
 
     return <div>
         
-      
+         
         <LandingFrame></LandingFrame>
-        <div>
-        <span className="font-link" color="White" fontSize= "70em" style={{
-        position: 'absolute', left: '50%', top: '50%',
-        
-      }}>
-         AMMU UMMA
-        </span>
-        </div>
         <FaTwitter color="grey" fontSize= "2em" style={{
         position: 'absolute', left: '30%', top: '92.5%',
         transform: 'translate(-50%, -50%)'
