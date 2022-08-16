@@ -1,5 +1,6 @@
 import React from "react";
 import { FaInstagram, FaLinkedin, FaYoutube, FaWhatsapp, FaGithub, FaTwitter, FaMailBulk, FaMap, FaMapMarker, FaMapSigns, FaChevronUp } from "react-icons/fa";
+import '../index.css';
 
 const style = { color: "black", fontSize: "2em"}
 
@@ -25,11 +26,11 @@ function HomePage() {
       
         <LandingFrame></LandingFrame>
         <div>
-        <span className="font-link" color="White" fontSize= "70em" style={{
-        position: 'absolute', left: '50%', top: '50%',
+        <span className="font-link"  style={{
+        position: 'absolute', left: '37.5%', top: '7.5%', fontSize: "3em", color: 'white'
         
       }}>
-         AMMU UMMA
+         Amrit Mahendran
         </span>
         </div>
         <FaTwitter color="grey" fontSize= "2em" style={{
