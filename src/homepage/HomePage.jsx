@@ -27,10 +27,10 @@ function HomePage() {
         <LandingFrame></LandingFrame>
         <div>
         <span className="font-link"  style={{
-        position: 'absolute', left: '37.5%', top: '37.5%', fontSize: "3em", color: 'white'
+        position: 'absolute', left: '33.5%', top: '37.5%', fontSize: "3em", color: 'white'
         
       }}>
-         Amrit Mahendran
+         A m r i t  &nbsp;    M a h e n d r a n
         </span>
         </div>
         <FaTwitter color="grey" fontSize= "2em" style={{
