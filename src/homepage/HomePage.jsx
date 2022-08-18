@@ -33,10 +33,12 @@ function HomePage() {
          A m r i t  &nbsp;    M a h e n d r a n
         </span>
         </div>
+        <a href="https://www.twitter.com/amritmahendrn/">
         <FaTwitter color="grey" fontSize= "2em" style={{
         position: 'absolute', left: '30%', top: '92.5%',
         transform: 'translate(-50%, -50%)'
       }} />
+          </a>
         <a href="https://www.linkedin.com/in/amritmahendran/?originalSubdomain=au">
         <FaLinkedin color="grey" fontSize= "2em" style={{
         position: 'absolute', left: '40%', top: '92.5%',
@@ -46,17 +48,19 @@ function HomePage() {
         </a>
         
         
-        <a href="https://www.youtube.com/channel/UCbHXiF07W3OWygOZuRaDxwg">
+        <a href="https://www.youtube.com/channel/UCISkKBVX9FYeXCm6LqdxxdQ">
         <FaYoutube color="grey" fontSize= "2em" style={{
         position: 'absolute', left: '50%', top: '92.5%',
         transform: 'translate(-50%, -50%)'
       }}/>
         </a>
         
+        <a href="https://www.github.com/amritmahendran/">
         <FaGithub color="grey" fontSize= "2em" style={{
         position: 'absolute', left: '60%', top: '92.5%',
         transform: 'translate(-50%, -50%)'
       }}/>
+          </a>
 <a href="https://www.instagram.com/amrit.mahendran/">
 
 <FaInstagram color="grey" fontSize= "2em" style={{
