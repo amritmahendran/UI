@@ -27,7 +27,7 @@ function HomePage() {
         <LandingFrame></LandingFrame>
         <div>
         <span className="font-link"  style={{
-        position: 'absolute', left: '37.5%', top: '7.5%', fontSize: "3em", color: 'white'
+        position: 'absolute', left: '37.5%', top: '37.5%', fontSize: "3em", color: 'white'
         
       }}>
          Amrit Mahendran
